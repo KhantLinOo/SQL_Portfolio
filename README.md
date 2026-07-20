@@ -10,7 +10,7 @@
 
 Welcome to my SQL portfolio repository! Here you'll find a collection of SQL projects and queries I've worked on, showcasing my skills and expertise in database management, data analysis, and data manipulation using SQL.
 
-##ABOUT ME
+## ABOUT ME
 I like the moment a messy dataset turns into a clean, defensible answer. My work runs the full loop: SQL to pull and shape the data, Python to dig into it properly, and Power BI to put it in front of the people who need to act on it — fast, and without a data-literacy prerequisite.
 
 Recent projects include untangling a million-row, 75-year movie dataset to separate real growth from noise, and building a window-function-heavy SQL model to explain how pay and mobility move through an organization. I'd rather ship one correct, well-labeled number than ten seductive ones.
