@@ -6,11 +6,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Laptop](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
+![Laptop](https://img.shields.io/badge/Lenovo%20laptop-E2232A?style=for-the-badge&logo=lenovo&logoColor=white)
 
 Welcome to my SQL portfolio repository! Here you'll find a collection of SQL projects and queries I've worked on, showcasing my skills and expertise in database management, data analysis, and data manipulation using SQL.
 
 ##ABOUT ME
+I like the moment a messy dataset turns into a clean, defensible answer. My work runs the full loop: SQL to pull and shape the data, Python to dig into it properly, and Power BI to put it in front of the people who need to act on it — fast, and without a data-literacy prerequisite.
+
+Recent projects include untangling a million-row, 75-year movie dataset to separate real growth from noise, and building a window-function-heavy SQL model to explain how pay and mobility move through an organization. I'd rather ship one correct, well-labeled number than ten seductive ones.
+
+I'm currently looking for data analyst roles where the output isn't just a report — it's a decision someone downstream can act on with confidence.
 
 # SQL Projects
 
