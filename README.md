@@ -21,7 +21,7 @@ I'm currently looking for data analyst roles where the output isn't just a repor
 
 In this repository, you will find a variety of SQL projects, including:
 
-1. [Workforce Compensation Analysis](https://github.com/KhantLinOo/Workforce_Compensation_Analysis.git):A SQL-only deep dive into an employee database — window functions and CTEs to rank pay within department and gender, trace career mobility, and flag departments quietly sitting under threshold.
+1. [Workforce Compensation Analysis](https://github.com/KhantLinOo/Workforce_Compensation_Analysis.git): A SQL-only deep dive into an employee database — window functions and CTEs to rank pay within department and gender, trace career mobility, and flag departments quietly sitting under threshold.
 
 $88k - avg salary in the top-paying department
 3 - depts audited against a $70k pay threshold
